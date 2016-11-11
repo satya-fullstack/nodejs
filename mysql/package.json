@@ -1,0 +1,14 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "connecting to mysql with nodejs",
+  "main": "01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "satya",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.11.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "01_simpleserver",
+  "version": "1.0.0",
+  "description": "this is a very simple webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "satya",
+  "license": "ISC"
+}
